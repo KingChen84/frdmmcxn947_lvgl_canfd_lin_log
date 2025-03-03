@@ -1,0 +1,2 @@
+# frdmmcxn947_lvgl_canfd_lin_log
+frdmmcxn947_lvgl_canfd_lin_log
