@@ -1,0 +1,11 @@
+../drivers/fsl_clock.h:1394:20:CLOCK_EnableClock	24	static
+../drivers/fsl_clock.h:1420:20:CLOCK_DisableClock	24	static
+../drivers/fsl_smartdma.c:54:6:SMARTDMA_Init	24	static
+../drivers/fsl_smartdma.c:67:6:SMARTDMA_InitWithoutFirmware	8	static
+../drivers/fsl_smartdma.c:81:6:SMARTDMA_InstallFirmware	24	static
+../drivers/fsl_smartdma.c:93:6:SMARTDMA_InstallCallback	16	static
+../drivers/fsl_smartdma.c:106:6:SMARTDMA_Boot	24	static
+../drivers/fsl_smartdma.c:126:6:SMARTDMA_Boot1	24	static
+../drivers/fsl_smartdma.c:135:6:SMARTDMA_Deinit	8	static
+../drivers/fsl_smartdma.c:144:6:SMARTDMA_Reset	8	static
+../drivers/fsl_smartdma.c:153:6:SMARTDMA_HandleIRQ	8	static

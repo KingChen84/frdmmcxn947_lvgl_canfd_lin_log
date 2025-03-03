@@ -1,0 +1,13 @@
+../lcdc/fsl_st7796s.c:72:17:ST7796S_WriteCommand	40	static
+../lcdc/fsl_st7796s.c:93:17:ST7796S_PresetDriver	32	static
+../lcdc/fsl_st7796s.c:121:17:ST7796S_SoftwareReset	24	static
+../lcdc/fsl_st7796s.c:129:17:ST7796S_SleepMode	24	static
+../lcdc/fsl_st7796s.c:145:10:ST7796S_Init	40	static
+../lcdc/fsl_st7796s.c:168:10:ST7796S_InvertDisplay	24	static
+../lcdc/fsl_st7796s.c:185:10:ST7796S_EnableDisplay	24	static
+../lcdc/fsl_st7796s.c:202:10:ST7796S_SetPixelFormat	24	static
+../lcdc/fsl_st7796s.c:210:10:ST7796S_SetTEConfig	32	static
+../lcdc/fsl_st7796s.c:230:10:ST7796S_SelectArea	40	static
+../lcdc/fsl_st7796s.c:251:10:ST7796S_Config	40	static
+../lcdc/fsl_st7796s.c:284:10:ST7796S_WritePixels	40	static
+../lcdc/fsl_st7796s.c:296:6:ST7796S_SetMemoryDoneCallback	24	static

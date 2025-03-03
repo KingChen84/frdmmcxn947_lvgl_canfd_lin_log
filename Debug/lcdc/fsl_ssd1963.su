@@ -1,0 +1,17 @@
+../lcdc/fsl_ssd1963.c:82:13:SSD1963_Delay	16	static
+../lcdc/fsl_ssd1963.c:90:17:SSD1963_GetPllDivider	64	static
+../lcdc/fsl_ssd1963.c:157:10:SSD1963_Init	72	static
+../lcdc/fsl_ssd1963.c:279:6:SSD1963_SetMemoryDoneCallback	24	static
+../lcdc/fsl_ssd1963.c:286:6:SSD1963_Deinit	16	static
+../lcdc/fsl_ssd1963.c:293:10:SSD1963_StartDisplay	16	static
+../lcdc/fsl_ssd1963.c:298:10:SSD1963_StopDisplay	16	static
+../lcdc/fsl_ssd1963.c:303:10:SSD1963_SetFlipMode	24	static
+../lcdc/fsl_ssd1963.c:325:10:SSD1963_SetOrientationMode	24	static
+../lcdc/fsl_ssd1963.c:346:10:SSD1963_SelectArea	48	static
+../lcdc/fsl_ssd1963.c:415:10:SSD1963_WritePixels	32	static
+../lcdc/fsl_ssd1963.c:421:10:SSD1963_ReadPixels	32	static
+../lcdc/fsl_ssd1963.c:427:10:SSD1963_SetBackLight	32	static
+../lcdc/fsl_ssd1963.c:440:10:SSD1963_EnableTearEffect	24	static
+../lcdc/fsl_ssd1963.c:458:10:SSD1963_SetPixelFormat	24	static
+../lcdc/fsl_ssd1963.c:495:10:SSD1963_ReadMemory	32	static
+../lcdc/fsl_ssd1963.c:500:10:SSD1963_WriteMemory	32	static

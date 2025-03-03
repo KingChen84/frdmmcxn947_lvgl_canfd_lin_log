@@ -1,0 +1,4 @@
+../source/flexcanfd.c:84:6:SysTick_SetTicks	16	static
+../source/flexcanfd.c:112:8:flexcan_callback	24	static
+../source/flexcanfd.c:149:6:MCXN_flexcan_init	72	static
+../source/flexcanfd.c:273:6:MCXN_flexcan_Test	88	static

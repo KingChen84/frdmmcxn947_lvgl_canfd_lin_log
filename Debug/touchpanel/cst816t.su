@@ -1,0 +1,7 @@
+../touchpanel/cst816t.c:6:10:cst816t_read_len	32	static
+../touchpanel/cst816t.c:14:10:cst816t_chipId	4	static
+../touchpanel/cst816t.c:18:18:cst816t_get_touch_points_num	24	static
+../touchpanel/cst816t.c:25:10:cst816t_read_pos	32	static
+../touchpanel/cst816t.c:49:10:cst816t_i2c_read	32	static
+../touchpanel/cst816t.c:56:10:cst816t_i2c_write8	24	static
+../touchpanel/cst816t.c:62:6:cst816t_init	40	static

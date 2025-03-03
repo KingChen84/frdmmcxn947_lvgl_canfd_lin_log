@@ -1,0 +1,9 @@
+D:\MCUXpresso-Project\frdmmcxn947_lvgl_canfd_lin_log\drivers/fsl_flexio_mculcd.h:524:20:FLEXIO_MCULCD_StartTransfer	16	static
+D:\MCUXpresso-Project\frdmmcxn947_lvgl_canfd_lin_log\drivers/fsl_flexio_mculcd.h:534:20:FLEXIO_MCULCD_StopTransfer	16	static
+../video/fsl_dbi_flexio_smartdma.c:40:13:DBI_FLEXIO_SMARTDMA_TransferCompletedCallback	32	static
+../video/fsl_dbi_flexio_smartdma.c:55:6:DBI_FLEXIO_SMARTDMA_SetMemoryDoneCallback	32	static
+../video/fsl_dbi_flexio_smartdma.c:63:10:DBI_FLEXIO_SMARTDMA_CreateXferHandle	40	static
+../video/fsl_dbi_flexio_smartdma.c:75:10:DBI_FLEXIO_SMARTDMA_WriteCommand	24	static
+../video/fsl_dbi_flexio_smartdma.c:88:10:DBI_FLEXIO_SMARTDMA_WriteData	32	static
+../video/fsl_dbi_flexio_smartdma.c:101:10:DBI_FLEXIO_SMARTDMA_WriteMemory	48	static
+../video/fsl_dbi_flexio_smartdma.c:121:10:DBI_FLEXIO_SMARTDMA_ReadMemory	24	static

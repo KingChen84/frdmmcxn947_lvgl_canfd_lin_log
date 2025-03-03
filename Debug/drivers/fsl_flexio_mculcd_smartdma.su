@@ -1,0 +1,10 @@
+../drivers/fsl_flexio.h:554:20:FLEXIO_EnableShifterStatusInterrupts	16	static
+../drivers/fsl_flexio_mculcd.h:524:20:FLEXIO_MCULCD_StartTransfer	16	static
+../drivers/fsl_flexio_mculcd.h:534:20:FLEXIO_MCULCD_StopTransfer	16	static
+../drivers/fsl_flexio_mculcd_smartdma.c:80:13:FLEXIO_MCULCD_SMARTDMA_GetTxChunkLen	24	static
+../drivers/fsl_flexio_mculcd_smartdma.c:107:13:FLEXIO_MCULCD_RGB656ToRGB888	24	static
+../drivers/fsl_flexio_mculcd_smartdma.c:137:10:FLEXIO_MCULCD_TransferCreateHandleSMARTDMA	24	static
+../drivers/fsl_flexio_mculcd_smartdma.c:220:10:FLEXIO_MCULCD_TransferSMARTDMA	56	static
+../drivers/fsl_flexio_mculcd_smartdma.c:326:6:FLEXIO_MCULCD_TransferAbortSMARTDMA	16	static
+../drivers/fsl_flexio_mculcd_smartdma.c:346:10:FLEXIO_MCULCD_TransferGetCountSMARTDMA	32	static
+../drivers/fsl_flexio_mculcd_smartdma.c:367:13:FLEXIO_MCULCD_SMARTDMA_Callback	32	static

@@ -1,0 +1,9 @@
+D:\MCUXpresso-Project\frdmmcxn947_lvgl_canfd_lin_log\drivers/fsl_flexio_mculcd.h:524:20:FLEXIO_MCULCD_StartTransfer	16	static
+D:\MCUXpresso-Project\frdmmcxn947_lvgl_canfd_lin_log\drivers/fsl_flexio_mculcd.h:534:20:FLEXIO_MCULCD_StopTransfer	16	static
+../video/fsl_dbi_flexio_edma.c:40:13:DBI_FLEXIO_EDMA_TransferCompletedCallback	32	static
+../video/fsl_dbi_flexio_edma.c:55:6:DBI_FLEXIO_EDMA_SetMemoryDoneCallback	32	static
+../video/fsl_dbi_flexio_edma.c:63:10:DBI_FLEXIO_EDMA_CreateXferHandle	32	static
+../video/fsl_dbi_flexio_edma.c:75:10:DBI_FLEXIO_EDMA_WriteCommand	24	static
+../video/fsl_dbi_flexio_edma.c:88:10:DBI_FLEXIO_EDMA_WriteData	32	static
+../video/fsl_dbi_flexio_edma.c:101:10:DBI_FLEXIO_EDMA_WriteMemory	56	static
+../video/fsl_dbi_flexio_edma.c:140:10:DBI_FLEXIO_EDMA_ReadMemory	56	static
